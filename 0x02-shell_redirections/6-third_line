@@ -1,0 +1,2 @@
+#!/bin/bash
+cat | awk 'FNR == 3' iacta
